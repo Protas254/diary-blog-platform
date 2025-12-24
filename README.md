@@ -23,7 +23,7 @@ This project consists of a Django backend (server) and a React/Vite frontend (cl
 - `client/.env`: Contains `VITE_API_URL`.
 
 ## Superuser
-- **Email**: protasjunior254@gmail.com
-- **Username**: admin
-- **Password**: Protas@01 (Stored in `server/.env`)
+- **Email**: 
+- **Username**: 
+- **Password**: 
 # diary-blog-platform
